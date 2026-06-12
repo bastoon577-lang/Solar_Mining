@@ -35,7 +35,7 @@ J'expose 2 voies pour permettre l'intégration du mécanisme dans le Mineur Antm
  1. [Utilisation de l'image pre-compilée](#reuse) (Mode débutant)
  2. [Re-construction d'une image custom](#diy) (Mode expert)
 
-<div id='reuse'/> 
+<div id='reuse'/>
 
 ### Utilisation de l'image pre-compilée
 
@@ -44,6 +44,8 @@ ce [tuto de flashage](https://rufus.ie/fr/). Cette image embarque tout le néces
 
 Puis effectuer le paramétrage sur le Mineur en suivant cette [procédure](#parameters).
 
+<div id='diy'/>
+ 
 ### Re-construction d'une image custom
 
 La re-construction consiste à générer l'image custom pas à pas à partir d'une image 
